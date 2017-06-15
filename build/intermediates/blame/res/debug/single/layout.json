@@ -1,0 +1,482 @@
+[
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\version_details.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\version_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dashboard__old.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\activity_dashboard__old.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\activity_paired_devices.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\activity_paired_devices.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\activity_popup_details.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\activity_popup_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\pen_challans.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\pen_challans.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\cust_pen_challans.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\cust_pen_challans.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\pending_challans_details.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\pending_challans_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline__settings.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\activity_offline__settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\pinpad_list_item_device.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\pinpad_list_item_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\activity_aadhaar_update.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\activity_aadhaar_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\dashboard.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\duplicateprint.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\duplicateprint.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dd__print.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\activity_dd__print.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\myprogressdialog.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\myprogressdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\fake_no_alert.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\fake_no_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\spot_challan.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\spot_challan.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\generate_dd.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\generate_dd.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\activity_date_of_birth__update.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\activity_date_of_birth__update.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\apk_progressbar.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\apk_progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\spot_challan.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\spot_challan.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline_dashboard.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\activity_offline_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\activity_otp_input.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\activity_otp_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\cust_pen_challans.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\cust_pen_challans.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\drunk_drive_response.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\drunk_drive_response.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\duplicateprint.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\duplicateprint.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\reports.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\reports.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\activity_get_pin_pad.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\activity_get_pin_pad.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\pen_challans.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\pen_challans.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\activity_aadhaar_update.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\activity_aadhaar_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\pinpad_list_item_device.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\pinpad_list_item_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\activity_aadhaar__update__print.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\activity_aadhaar__update__print.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\activity_extra_passengers.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\activity_extra_passengers.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\email_mobile_no.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\email_mobile_no.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\spot_challan_two.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\spot_challan_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pin_pad_list.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\activity_pin_pad_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pin_pad_list.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\activity_pin_pad_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\activity_otp_input.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\activity_otp_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\drunk_drive_two.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\drunk_drive_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\drunk__drive__fake__dialog.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\drunk__drive__fake__dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_device.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\list_item_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\version_details.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\version_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\activity_minor.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\activity_minor.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\activity_special_drive.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\activity_special_drive.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\generate_dd.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\generate_dd.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\activity_special__drive.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\activity_special__drive.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\vhcle_hstry_pchallans.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\vhcle_hstry_pchallans.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\vhcle_hstry_pchallans.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\vhcle_hstry_pchallans.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\drunkdrive.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\drunkdrive.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\activity_paired_devices.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\activity_paired_devices.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dd__response__print.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\activity_dd__response__print.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\activity_special_drive.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\activity_special_drive.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\cust_toast.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\cust_toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\pending_challans_details.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\pending_challans_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\myprogressdialog.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\myprogressdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\activity_extra_passengers.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\activity_extra_passengers.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_device.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\list_item_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline__settings.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\activity_offline__settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\activity_special__drive.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\activity_special__drive.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\dashboard.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline__generate_case.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\activity_offline__generate_case.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\drunk__drive__fake__dialog.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\drunk__drive__fake__dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\drunk_drive_three.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\drunk_drive_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\dashboard_pc.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\dashboard_pc.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\activity_e__challan.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\activity_e__challan.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dd__print.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\activity_dd__print.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\dashboard_pc.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\dashboard_pc.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\ip_setting.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\ip_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\drunk_drive_response.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\drunk_drive_response.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\spot_challan_two.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\spot_challan_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\apk_progressbar.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\apk_progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline_dashboard.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\activity_offline_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\activity_popup_details.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\activity_popup_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\activity_otp.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\activity_otp.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\activity_e__challan__reports.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\activity_e__challan__reports.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_password.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\spot_response.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\spot_response.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_dropdown_item.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dd__response__print.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\activity_dd__response__print.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\activity_otp.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\activity_otp.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\activity_aadhaar__update__print.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\activity_aadhaar__update__print.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\drunk_drive_two.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\drunk_drive_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\ip_setting.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\ip_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_dropdown_item.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\email_mobile_no.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\email_mobile_no.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\dynamic_violations.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\dynamic_violations.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\activity_minor.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\activity_minor.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\activity_date_of_birth__update.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\activity_date_of_birth__update.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline__generate_case.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\activity_offline__generate_case.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\drunkdrive.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\drunkdrive.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\cust_toast.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\cust_toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\activity_respone__print.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\activity_respone__print.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\dynamic_violations.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\dynamic_violations.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\custom_progress_dialog.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\custom_progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\activity_get_pin_pad.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\activity_get_pin_pad.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pin_pad__list.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\activity_pin_pad__list.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\blutooth_list_devices.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\blutooth_list_devices.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_password.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\activity_e__challan.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\activity_e__challan.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dashboard__old.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\activity_dashboard__old.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\custom_progress_dialog.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\custom_progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\activity_releaseversion.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\activity_releaseversion.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\activity_respone__print.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\activity_respone__print.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings__old.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\activity_settings__old.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\drunk_drive_three.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\drunk_drive_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\activity_releaseversion.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\activity_releaseversion.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\fake_no_alert.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\fake_no_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\blutooth_list_devices.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\blutooth_list_devices.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\reports.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\reports.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings__old.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\activity_settings__old.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\activity_e__challan__reports.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\activity_e__challan__reports.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\build\\intermediates\\res\\merged\\debug\\layout\\spot_response.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MobileE_Ticket\\res\\layout\\spot_response.xml"
+    },
+    {
+        "merged": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pin_pad__list.xml",
+        "source": "C:\\Users\\MANOHAR\\Desktop\\MtpvWallet\\res\\layout\\activity_pin_pad__list.xml"
+    }
+]

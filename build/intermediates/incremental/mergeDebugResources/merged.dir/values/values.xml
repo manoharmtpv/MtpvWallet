@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="profession_arrays">
+        <item>Select Profession</item>
+        <item>STUDENT</item>
+        <item>BUSSINESS</item>
+        <item>PRIVATE EMPLOYEE</item>
+        <item>GOVT EMPLOYEE</item>
+        <item>SELF EMPLOYEE</item>
+        <item>OTHERS</item>
+    </string-array>
+    <string-array name="violations_arr">
+        <item>MIN</item>
+        <item>MAX</item>
+    </string-array>
+    <color name="bg">#c6d8f7</color>
+    <color name="black">#000000</color>
+    <color name="dd_btn_blue_color">#58ACFA</color>
+    <color name="dialog_title">#fb0000</color>
+    <color name="footer_txt_color">#374175</color>
+    <color name="green">#568e3a</color>
+    <color name="header_bg">#81BEF7</color>
+    <color name="navi_color">#001e59</color>
+    <color name="orange_color">#FFBF00</color>
+    <color name="tranparent_color">#80ffffff</color>
+    <color name="tranparent_color_black">#80000000</color>
+    <color name="transparent">#00000000</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="colon_wght">0.9dp</dimen>
+    <dimen name="corner_radius">12dp</dimen>
+    <dimen name="header_grnt_padding_five">5dp</dimen>
+    <dimen name="header_grnt_padding_ten">5dp</dimen>
+    <dimen name="header_icon_size">100dp</dimen>
+    <dimen name="margin_fifteen">15dp</dimen>
+    <dimen name="margin_twenty">20dp</dimen>
+    <dimen name="thirty_sp">30sp</dimen>
+    <dimen name="thirtyfive_sp">35sp</dimen>
+    <string name="Address_txt">Address	</string>
+    <string name="Ccapsity_txt">Cubic Capacity </string>
+    <string name="Chasisno_txt">Chasis No  </string>
+    <string name="Color_txt">Color </string>
+    <string name="Dor_txt">Date of Registration </string>
+    <string name="Engno_txt">Engine Number </string>
+    <string name="Fathername_txt">Father Name	</string>
+    <string name="Hyp_txt">Hypothecated </string>
+    <string name="InscmpName_txt">Insurance Company Name </string>
+    <string name="Insvf_txt">Insurance Valid From </string>
+    <string name="Insvu_txt">Insurance Valid Up to </string>
+    <string name="RVU_txt">Regn. Valid Up to </string>
+    <string name="Scapacity_txt">Seating Capacity </string>
+    <string name="Sow_txt">Signature of the Owner </string>
+    <string name="Tax_txt">Tax </string>
+    <string name="Uweight_txt">Unladen Weight </string>
+    <string name="Vehnum_txt">Vehicle Number </string>
+    <string name="Wbase_txt">Wheel Base </string>
+    <string name="aadhar_no">Aadhar No    </string>
+    <string name="aadhar_no_eid">Aadhar No/EID</string>
+    <string name="about_version">About version</string>
+    <string name="action_settings">Settings</string>
+    <string name="address">Enter Address</string>
+    <string name="address_res">Address</string>
+    <string name="age">Enter Age</string>
+    <string name="alcohol_reading">Enter Alcohol Reading</string>
+    <string name="amnt">Amount</string>
+    <string name="app_name">Hyderabad\nE-Ticket</string>
+    <string name="app_version">Version-1.5.6</string>
+    <string name="back">Back</string>
+    <string name="bar">Bar &amp; Restaurant</string>
+    <string name="bar_type">Select Liquor Seller Type</string>
+    <string name="bluetooth_address">Bluetooth Printer Address</string>
+    <string name="breathe_analyser">Breath Analyser</string>
+    <string name="cancel">Cancel</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="card">Card</string>
+    <string name="card_type">Card Type</string>
+    <string name="care_off">C/O</string>
+    <string name="cash">Cash</string>
+    <string name="chasis">Chasis No</string>
+    <string name="chasos_no">Chasis No.</string>
+    <string name="check_sino">Enter Check Serial No</string>
+    <string name="city">Enter City</string>
+    <string name="city_or_district">City/District</string>
+    <string name="city_res">City</string>
+    <string name="colon">:</string>
+    <string name="color">Color</string>
+    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">41d859c2-51f8-4e58-b5b7-a51879f07b72</string>
+    <string name="confirm">Confirm</string>
+    <string name="counselling_date">Counselling Date</string>
+    <string name="dates">Date</string>
+    <string name="day_report">Day Report</string>
+    <string name="dd_address">Enter Address  of Profession</string>
+    <string name="dd_name">Enter Name of Profession</string>
+    <string name="detained_items">Detained Items</string>
+    <string name="detained_items_licence">Licence</string>
+    <string name="detained_items_permit">Permit</string>
+    <string name="detained_items_rc">RC          </string>
+    <string name="detained_items_vhcle">Vehicle</string>
+    <string name="dob">DOB</string>
+    <string name="driver_contact_no">Enter Driver Contact No</string>
+    <string name="driver_contact_number">Driver Contact No</string>
+    <string name="driver_details">DRIVER DETAILS</string>
+    <string name="driver_dl_no">Enter Driver DL No      </string>
+    <string name="driver_dl_no_res">Driver DL No</string>
+    <string name="driver_father_name">Driver\'s Father Name</string>
+    <string name="driver_lcnce_no">Driver Licence No.</string>
+    <string name="driver_name">Enter Driver Name</string>
+    <string name="driver_name_only">Driver\'s Name    </string>
+    <string name="drunk_drive">Drunk &amp; Drive</string>
+    <string name="drunkand_drive">Drunk &amp; Drive</string>
+    <string name="dup_drunk_drive">Drunk &amp; Drive</string>
+    <string name="dup_spot_challan">Spot Challan</string>
+    <string name="dup_vhcle_hstry">Vehicle History</string>
+    <string name="duplicate_print">Duplicate\nPrint</string>
+    <string name="echallan">E Challan</string>
+    <string name="echallanreports">E Challan Reports</string>
+    <string name="eid">EID</string>
+    <string name="email">Enter Email ID of Profession</string>
+    <string name="engine">Engine No</string>
+    <string name="engine_no">Engine No.</string>
+    <string name="enter_last_fiv_dig_chass_no">Enter Last Five Digits of Vehicle Chasis No</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="enter_pid">Enter PID</string>
+    <string name="enter_pin">Enter PIN</string>
+    <string name="enter_pwd">Enter Password</string>
+    <string name="eticket_no">E-Ticket No</string>
+    <string name="exact_location">Exact Location</string>
+    <string name="fake_vehicle">FAKE VEHICLE</string>
+    <string name="father_name_only">Father Name</string>
+    <string name="fined_by">Fined by</string>
+    <string name="finedby_court">Court</string>
+    <string name="finedby_policestation">Police Station</string>
+    <string name="footer_txt">Invented And Developed By \nMother Technologies Project Ventures</string>
+    <string name="ftp_url">FTP URL</string>
+    <string name="gen_female">Female</string>
+    <string name="gen_male">Male</string>
+    <string name="gen_others">Others</string>
+    <string name="gender">Gender</string>
+    <string name="generate_challan">Generate Challan</string>
+    <string name="generate_ticket">Drunk &amp; Drive</string>
+    <string name="get_details">Get Details</string>
+    <string name="get_pending_challans">GET PENDING CHALLANS</string>
+    <string name="header_txt">Mobile E-Ticket</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint_mail">Enter E-mail ID</string>
+    <string name="hint_mobile">Enter Mobile Number</string>
+    <string name="ip_settings">IP Settings</string>
+    <string name="ip_settings_header">IP Settings</string>
+    <string name="is_driver">Is Driver</string>
+    <string name="is_owner">Is Owner</string>
+    <string name="licence_no">NO</string>
+    <string name="licence_owner_name">Licence Owner Name</string>
+    <string name="licence_status">Licence Exit</string>
+    <string name="licence_yes">YES</string>
+    <string name="live">LIVE</string>
+    <string name="logIn">Login</string>
+    <string name="login">LOGIN</string>
+    <string name="maestro_card">Maestro</string>
+    <string name="mail">E-mail ID :</string>
+    <string name="maker_cd">Maker Code</string>
+    <string name="maker_class">Maker Class</string>
+    <string name="maker_name">Maker Name</string>
+    <string name="master_card">Master</string>
+    <string name="masters">Download Masters</string>
+    <string name="minor">The Person is Minor please take the Following Details</string>
+    <string name="mob_no">Mobile Number</string>
+    <string name="mobile">Mobile :</string>
+    <string name="mole_mark">Enter Identification Mark(Mole)</string>
+    <string name="name">Name</string>
+    <string name="newtork_txt">Please check your network connection!</string>
+    <string name="next">Next</string>
+    <string name="no_day_report">No Reports Found!</string>
+    <string name="no_pending_challans">No Pending Challans \nPlease Check Details</string>
+    <string name="none">None</string>
+    <string name="occupation">Occupation</string>
+    <string name="offence_date">Offence Date</string>
+    <string name="offence_desc">Offence Desc</string>
+    <string name="offence_time">Offence Time</string>
+    <string name="office_name">Officer Name</string>
+    <string name="officer_code">Officer Code</string>
+    <string name="officer_name">Officer Name</string>
+    <string name="officer_pid">Officer PID</string>
+    <string name="ok">OK</string>
+    <string name="okkk">OK</string>
+    <string name="others">Others</string>
+    <string name="owner_dl_no">Enter Owner DL No       </string>
+    <string name="owner_lcnce_no">Owner Licence No.</string>
+    <string name="owner_name">Owner Name</string>
+    <string name="ownername_txt">Owner Name </string>
+    <string name="pancard_no">PanCard No    </string>
+    <string name="passport_no">Passport No</string>
+    <string name="passport_tx">PassPort No</string>
+    <string name="payment_mode">Payment Mode</string>
+    <string name="pending_challans">Pending challans</string>
+    <string name="permit_room">Permit Room</string>
+    <string name="pinpad">PIN pad Bluetooth Address</string>
+    <string name="place_of_violation">Place Of violation</string>
+    <string name="point_name">Point Name</string>
+    <string name="police_station">Police Station</string>
+    <string name="previous">Previous</string>
+    <string name="print">Print</string>
+    <string name="profession_prompt">Select Profession</string>
+    <string name="proffession">Select Profession</string>
+    <string name="ps_name">PS Name</string>
+    <string name="qualification">Qualification</string>
+    <string name="rc_details">REGISTRATION OF CERTIFICATE DETAILS</string>
+    <string name="regNo">Regn.No</string>
+    <string name="regncd_last_num">6249</string>
+    <string name="regncd_name">BW</string>
+    <string name="regncd_no">AP29</string>
+    <string name="regno">Regn.No</string>
+    <string name="release_documents">Release\nDocuments</string>
+    <string name="release_documents_one_line">Release Documents</string>
+    <string name="release_items">Release Detained Items</string>
+    <string name="remarks">Remarks</string>
+    <string name="remember_details">Remember Details</string>
+    <string name="reports">Reports</string>
+    <string name="reset">Reset</string>
+    <string name="response">Response</string>
+    <string name="save">Save</string>
+    <string name="scan_bluetooth">Scan Bluetooth Printer</string>
+    <string name="select">Select</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_dup_type">Select Application</string>
+    <string name="select_idproof">Select ID Proof</string>
+    <string name="select_occupation">Select Occupation</string>
+    <string name="select_pointbypsname">Select Point By PS-Name</string>
+    <string name="select_ps_name">Select PS Name</string>
+    <string name="select_qualification">Select Qualification</string>
+    <string name="select_report_type">Select Report Type</string>
+    <string name="select_time">Select Time</string>
+    <string name="select_violation">Select Violation</string>
+    <string name="select_wheeler_code">Select Wheeler Code</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="service_url">Service URL</string>
+    <string name="settings">Settings</string>
+    <string name="signature">Signature of Driver</string>
+    <string name="slogan">Stay Alive, don’t drink and drive</string>
+    <string name="sp_drive">Special Drive</string>
+    <string name="special_drive">Special Drive</string>
+    <string name="spot_challan">Spot Challan</string>
+    <string name="spot_payment">Is It Spot Payment           </string>
+    <string name="sub_header_txt">Drunk &amp; Drive  V 1.0</string>
+    <string name="submit">Submit</string>
+    <string name="sync">Download\nMasters</string>
+    <string name="test">TEST</string>
+    <string name="ticket_generated_successfully">Ticket Generated Successfully</string>
+    <string name="title_activity_Fake_NO_Dialog">Fake_NO_Dialog</string>
+    <string name="title_activity_aadhaar__update__print">Aadhaar_Update_Print</string>
+    <string name="title_activity_aadhaar_update">AadhaarUpdate</string>
+    <string name="title_activity_blue_tooth_list">BlueToothList</string>
+    <string name="title_activity_bluetooth_list">BluetoothListActivity</string>
+    <string name="title_activity_change_password">ChangePassword</string>
+    <string name="title_activity_dash_pc__hg">DashPC_HG</string>
+    <string name="title_activity_dashboard__old">Dashboard_Old</string>
+    <string name="title_activity_date_of_birth__update">DateOfBirth_Update</string>
+    <string name="title_activity_dd__print">DD_Print</string>
+    <string name="title_activity_dd__response__print">DD_Response_Print</string>
+    <string name="title_activity_drunk__drive__fake__dialog">Drunk_Drive_Fake_Dialog</string>
+    <string name="title_activity_e__challan">E_Challan</string>
+    <string name="title_activity_e__challan__reports">E_Challan_Reports</string>
+    <string name="title_activity_get_pin_pad">GetPinPad</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="title_activity_minor">MinorActivity</string>
+    <string name="title_activity_offline__generate_case">Offline_GenerateCase</string>
+    <string name="title_activity_offline__settings">Offline_Settings</string>
+    <string name="title_activity_offline_dashboard">OfflineDashboardActivity</string>
+    <string name="title_activity_otp_input">OTP_input</string>
+    <string name="title_activity_pin_pad__list">PinPad_ListActivity</string>
+    <string name="title_activity_pin_pad_list">PinPadList</string>
+    <string name="title_activity_releaseversion">ReleaseversionActivity</string>
+    <string name="title_activity_respone__print">Respone_Print</string>
+    <string name="title_activity_settings__old">Settings_Old</string>
+    <string name="title_activity_special__drive">Special_Drive</string>
+    <string name="title_activity_special_drive">SpecialDrive</string>
+    <string name="towing">Crane \n41 CP ACT</string>
+    <string name="towing_one_line">Crane 41 CP ACT</string>
+    <string name="tsp">TELANGANA STATE POLICE</string>
+    <string name="tv_age">Age</string>
+    <string name="tv_gender">Gender</string>
+    <string name="uid">UID</string>
+    <string name="update_aadhar">Update Aadhar</string>
+    <string name="veh_main_cat">Veh. Main Category</string>
+    <string name="veh_sub_cat">Veh. Sub Category</string>
+    <string name="vehicleNo_txt">Regn. Number </string>
+    <string name="vehicle_history">Vehicle History</string>
+    <string name="version_details">Version Deatils</string>
+    <string name="vhcle_cat">Vehicle Category</string>
+    <string name="violation">Violation</string>
+    <string name="violation_details">Violation Details</string>
+    <string name="visa_card">Visa</string>
+    <string name="voter_id_no">Voter Id No      </string>
+    <string name="vtype_txt">Vehicle Type  </string>
+    <string name="welcome">Welcome</string>
+    <string name="wheller_code">Wheeler Code</string>
+    <string name="wine_shop">Wine Shop</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="TextColor">
+    <item name="android:textColor">#0c1931</item>
+</style>
+    <style name="TransparentProgressDialogWithPngImage" parent="@android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@null</item>
+        <item name="android:windowAnimationStyle">  @android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:background">@android:color/transparent</item>
+   
+ </style>
+    <style name="cust_text_style" parent="text_style">
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="custom_blue_btn_style" parent="dd_custom_blue_btn_style">
+        <item name="android:drawableRight">@null</item>
+    </style>
+    <style name="dd_custom_blue_btn_style">
+        <item name="android:background">@drawable/drun_drive_btn_style_blue</item>
+        <item name="android:drawableRight">@drawable/down</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:paddingRight">5dp</item>
+        <item name="android:textColor">@color/navi_color</item>
+        <item name="android:textSize">18dp</item>
+    </style>
+    <style name="dd_custom_check_box_style" parent="dd_custom_radio_btn_style">
+        <item name="android:button">@drawable/custom_chec_box</item>
+        <item name="android:paddingLeft">@dimen/header_grnt_padding_ten</item>
+    </style>
+    <style name="dd_custom_radio_btn_style">
+        <item name="android:button">@drawable/custom_radio_button</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textColor">@color/navi_color</item>
+        <item name="android:textSize">18dp</item>
+    </style>
+    <style name="dd_custom_radio_btn_style_isDriver_isOwner" parent="dd_custom_radio_btn_style">
+        <item name="android:textSize">22dp</item>
+    </style>
+    <style name="drunkdrive_text_style" parent="text_style">
+        <item name="android:textSize">16dp</item>
+    </style>
+    <style name="edt_custom_settings_style" parent="edt_custom_style">
+        <item name="android:background">@drawable/transbg_white_style</item>
+    </style>
+    <style name="edt_custom_style">
+        <item name="android:background">@drawable/transbg_style</item>
+        <item name="android:textColorHint">#585858</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textSize">25dp</item>
+    </style>
+    <style name="footer_style">
+        <item name="android:drawableRight">@drawable/mptvlogo</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:text">@string/footer_txt</item>
+        <item name="android:background">#365285</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:paddingLeft">@dimen/header_grnt_padding_ten</item>
+    </style>
+    <style name="green_custom_style" parent="text_style">
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/login_blue_btn_style</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="header_images_style_left">
+        <item name="android:layout_width">@dimen/header_icon_size</item>
+        <item name="android:layout_height">@dimen/header_icon_size</item>
+        <item name="android:src">@drawable/htp_left</item>
+    </style>
+    <style name="header_images_style_right" parent="header_images_style_left">
+        <item name="android:src">@drawable/hcp_right</item>
+    </style>
+    <style name="header_style">
+        <item name="android:padding">5dp</item>
+        <item name="android:background">@drawable/header_grdnt</item>
+    </style>
+    <style name="header_text_style" parent="text_style">
+        <item name="android:textSize">30dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="margin_top_btm_style">
+        <item name="android:layout_marginTop">@dimen/header_grnt_padding_ten</item>
+        <item name="android:layout_marginBottom">@dimen/header_grnt_padding_ten</item>
+    </style>
+    <style name="navi_text_style" parent="text_style">
+        <item name="android:textColor">@color/navi_color</item>
+    </style>
+    <style name="naviblue_custom_style" parent="green_custom_style">
+        <item name="android:background">@drawable/navi_blue_btn_style</item>
+    </style>
+    <style name="orange_custom_style" parent="green_custom_style">
+        <item name="android:background">@drawable/login_orange_btn_style</item>
+    </style>
+    <style name="text_style">
+        <item name="android:textSize">22sp</item>
+        <!-- <item name="android:textStyle">bold</item> -->
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+</resources>

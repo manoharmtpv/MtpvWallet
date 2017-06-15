@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANOHAR\Desktop\MobileE_Ticket\libs\common-lang3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70d0d4ddef60cfa67f28fd3382fc631119380030">
+        <dex dex="C:\Users\MANOHAR\Desktop\MobileE_Ticket\build\intermediates\pre-dexed\debug\common-lang3_48699b0fbc945129dd262c08b30117fe762ca5cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANOHAR\Desktop\MobileE_Ticket\libs\core-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="C:\Users\MANOHAR\Desktop\MobileE_Ticket\build\intermediates\pre-dexed\debug\core-3.2.0_9aeca66d2fbd9b6de704739275e39412b8d2096f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANOHAR\Desktop\MobileE_Ticket\libs\ftp4j-1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5587b19a4527cf8e0e53a58aff649e06dbd869d9">
+        <dex dex="C:\Users\MANOHAR\Desktop\MobileE_Ticket\build\intermediates\pre-dexed\debug\ftp4j-1.6_d25a2e8df39bb22cbe8e4fba771f9567788a5041.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANOHAR\Desktop\MobileE_Ticket\libs\ksoap2-android-assembly-2.4-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e8796346a9191a019e936210a2dc50662c57594b">
+        <dex dex="C:\Users\MANOHAR\Desktop\MobileE_Ticket\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-2.4-jar-with-dependencies_ca740a3bfe45162234c3fece170cd2d82b3a1aa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANOHAR\Desktop\MobileE_Ticket\libs\commons-validator-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42fa1046955ade59f5354a1876cfc523cea33815">
+        <dex dex="C:\Users\MANOHAR\Desktop\MobileE_Ticket\build\intermediates\pre-dexed\debug\commons-validator-1.4.0_7162739f34ad7a5ee447fd042f755cb2429c39d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANOHAR\Desktop\MobileE_Ticket\libs\mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="931fcfbb26a7f24a7a8a252e804889cae1b6fb21">
+        <dex dex="C:\Users\MANOHAR\Desktop\MobileE_Ticket\build\intermediates\pre-dexed\debug\mail_fbfc5bdd4e48e1b1a32d7c044497f2abf3c8a2f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANOHAR\Desktop\MobileE_Ticket\libs\opencv_library-2.4.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e92dfaeacc97afc46002172e0d0d55b33838715b">
+        <dex dex="C:\Users\MANOHAR\Desktop\MobileE_Ticket\build\intermediates\pre-dexed\debug\opencv_library-2.4.3_8b8b22589e82a636a36957cc9e9ac39a6bba332f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANOHAR\Desktop\MobileE_Ticket\libs\commons-net-examples-3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6272d80e897347c3c5f3691c8d76eae5deb764e1">
+        <dex dex="C:\Users\MANOHAR\Desktop\MobileE_Ticket\build\intermediates\pre-dexed\debug\commons-net-examples-3.5_e602b2d5c24f0430cf4454a63b344cf056cf7956.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANOHAR\Desktop\MobileE_Ticket\libs\commons-net-3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="342fc284019f590e1308056990fdb24a08f06318">
+        <dex dex="C:\Users\MANOHAR\Desktop\MobileE_Ticket\build\intermediates\pre-dexed\debug\commons-net-3.5_e961a12516172a88271e4e952a82d75c429eae84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANOHAR\Desktop\MobileE_Ticket\libs\org-apache-commons-codec.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9c6412a9f19fc03760ca0cf4708bca50f57a80c">
+        <dex dex="C:\Users\MANOHAR\Desktop\MobileE_Ticket\build\intermediates\pre-dexed\debug\org-apache-commons-codec_e7958f6c76e4c996b7a0099e3c827e5e28111d7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANOHAR\Desktop\MobileE_Ticket\libs\sun.misc.BASE64Decoder.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="acd93e3727886196f9b8434279ff445ba8611186">
+        <dex dex="C:\Users\MANOHAR\Desktop\MobileE_Ticket\build\intermediates\pre-dexed\debug\sun.misc.BASE64Decoder_9333c1abfa848daf2d77489326d94fa7ed8a8211.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANOHAR\Desktop\MobileE_Ticket\libs\securityJar.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addea9b025d2f1a7d9150cae451aab7d2739065">
+        <dex dex="C:\Users\MANOHAR\Desktop\MobileE_Ticket\build\intermediates\pre-dexed\debug\securityJar_f9c17fdcc361811ffaa17c1f24f5ffc69e5ec13a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANOHAR\Desktop\MobileE_Ticket\libs\AnalogicsVersa3TBTPrinterAPI.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f335fd581184b2160164d065f0ecd3c4f2b7df0">
+        <dex dex="C:\Users\MANOHAR\Desktop\MobileE_Ticket\build\intermediates\pre-dexed\debug\AnalogicsVersa3TBTPrinterAPI_2c703001d204b39a96485133c88290e93ef74a3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANOHAR\Desktop\MobileE_Ticket\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="C:\Users\MANOHAR\Desktop\MobileE_Ticket\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3_4d3861407b983ff890a0642b6b18f2495bd6e8d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANOHAR\Desktop\MobileE_Ticket\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a13f8fe2c278737e2f0b6fcf00f6b2ae4034aacf">
+        <dex dex="C:\Users\MANOHAR\Desktop\MobileE_Ticket\build\intermediates\pre-dexed\debug\android-support-v4_dfae77f1f1cac38089e133cf0d9424721e8d7dba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANOHAR\Desktop\MobileE_Ticket\libs\signature.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ef58d22656775f6234ae5a7a619eaf3a9388223">
+        <dex dex="C:\Users\MANOHAR\Desktop\MobileE_Ticket\build\intermediates\pre-dexed\debug\signature_d0bc02eebae91c3d2dfa9bb19f598f33f63f4159.jar" />
+    </item>
+
+</items>
