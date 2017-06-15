@@ -211,8 +211,8 @@ public class MainActivity extends Activity implements OnClickListener, LocationL
 		btn_submit = (Button) findViewById(R.id.btnsubmit_login_xml);
 		tv_ip_settings = (TextView) findViewById(R.id.tv_ipsettings);
 
-		et_pid.setText("23001004");
-		et_pid_pwd.setText("WdSt24Pr");
+	//	et_pid.setText("23001004");
+		//et_pid_pwd.setText("WdSt24Pr");
 
 		btn_cancel.setOnClickListener(this);
 		btn_submit.setOnClickListener(this);
